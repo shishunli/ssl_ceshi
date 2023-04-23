@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/autoLogin/autoLogin",
+    "pages/home/home",
+    "pages/login/login",
+    "pages/invite/invite",
+    "pages/beInvited/beInvited"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FD95BB",
+    "navigationBarTitleText": "喜圈",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
