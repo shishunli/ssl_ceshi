@@ -12,3 +12,4 @@ App({
     appDomin: "https://xqstage.wudaima.com/"    /*预发*/
   }
 })
+//testasdasdad
